@@ -59,6 +59,7 @@ function generateCV() {
   document.getElementById("objectiveT").innerHTML =
     document.getElementById("objectivefield").value;
 
+  //WE
   let wes = document.getElementsByClassName("wefield");
   let str = "";
   for (let e of wes) {
@@ -66,4 +67,31 @@ function generateCV() {
   }
 
   document.getElementById("weT").innerHTML = str;
+  
+  //AQ
+
+  let aqs = document.getElementsByClassName("aqfield");
+  let str1 = "";
+  for (let e of aqs) {
+    str1 = str1 + `<li> ${e.value} </li>`;
+  }
+
+  document.getElementById("aqT").innerHTML = str1;
+
+  //code for setting image
+
+  let file = document.getElementById("imgfield").files[0];
+  console.log(file);
+
+  let reader = new FileReader();
+  console.log(reader);
+
+  reader.readAsDataURL(file);
+
+  console.log(reader.result);
+
+  document.getElementById("imgT").src = reader.result;
+  
+  document.getElementById("cv-form").style.display = "none";
+  document.getElementById("cv-template").style.display = "block";
 }
