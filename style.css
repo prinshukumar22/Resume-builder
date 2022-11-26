@@ -1,7 +1,15 @@
-/* #cv-form {
+#cv-form {
+  /* display: none; */
+}
+
+#cv-template {
   display: none;
-} */
+}
 
 .background {
   background-color: aqua;
+}
+
+.myImg {
+  width: 200px;
 }
