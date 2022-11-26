@@ -46,15 +46,15 @@ function generateCV() {
 
   let fbfield = document.getElementById("fbfield").value;
   let fbT = document.querySelector("#fbT");
-  fbT.innerHTML = fbfield;
+  fbT.href = fbfield;
 
   let instafield = document.getElementById("instafield").value;
   let instaT = document.querySelector("#instaT");
-  instaT.innerHTML = instafield;
+  instaT.href = instafield;
 
   let linkedfield = document.getElementById("linkedfield").value;
   let linkedT = document.querySelector("#linkedT");
-  linkedT.innerHTML = linkedfield;
+  linkedT.href = linkedfield;
 
   document.getElementById("objectiveT").innerHTML =
     document.getElementById("objectivefield").value;

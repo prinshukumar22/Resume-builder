@@ -22,32 +22,32 @@ ResumeX is a free and open-source resume builder that’s built to make the mund
 
 ## Features 
 
-1.Free, forever
+1. Free, forever
 
-2.No Advertising
+2. No Advertising
 
-3.No User Tracking
+3. No User Tracking
 
-4.Sync your data across devices
+4. Sync your data across devices
 
-5.Accessible in multiple languages
+5. Accessible in multiple languages
 
-6.Import data from LinkedIn.
+6. Import data from LinkedIn.
 
-7.Manage multiple resumes with one account
+7. Manage multiple resumes with one account
 
-8.Open Source 
+8. Open Source 
 
-9.Send your resume to others with a unique sharable link
+9. Send your resume to others with a unique sharable link
 
-10.Pick any font from Google Fonts to use on your resume
+10. Pick any font from Google Fonts to use on your resume
 
-11.Choose a template of your own and more coming soon
+11. Choose a template of your own and more coming soon
 
-12.Export your resume to JSON or PDF format with just one click
+12. Export your resume to JSON or PDF format with just one click
 
-13.Create an account using your email, or just Sign in with Google
+13. Create an account using your email, or just Sign in with Google
 
-14.Oh, and did I mention that it's free?
+14. Oh, and did I mention that it's free?
 <!-- ![image](https://user-images.githubusercontent.com/91736423/200284245-def449bf-8c5d-43b0-aac7-4ad7838f17be.png) -->
 
